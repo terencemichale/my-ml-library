@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "my-ml-library"
+  site-url: "https://terencemichale.github.io/my-ml-library"
+  description: "Learning project with nbdev on fast.ai"
+  repo-branch: main
+  repo-url: "https://github.com/terencemichale/my-ml-library"
